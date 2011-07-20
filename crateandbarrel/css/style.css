@@ -1,0 +1,85 @@
+div.nRightCol {float:right; width:800px; margin-right:-2px; background:#fff;}
+div.nRightCol div.box {border-bottom:none !important;}
+div.nRightCol h2 {font-size: 24px; color:#666; padding:4px 16px 8px 16px !important; clear:left; border-bottom:2px solid #E6E7E9; border-right:2px solid #E6E7E9; margin-bottom:0 !important;}
+div.nRightCol h3 {font-size: 13px; color:#000; padding:3px 18px !important; clear:left; border-bottom:2px solid #E6E7E9; margin-bottom:0 !important;}
+
+div.more{clear:both; text-align:right; border-top:2px solid #E6E7E9; border-right:2px solid #E6E7E9; padding:5px 15px 10px;}
+div.more a
+	{
+		display:inline-block; font-weight:bold;
+		padding:0 20px 1px 14px; line-height:20px;
+		text-decoration:none;color:#237dc1;
+		border:1px solid #d9d9d9; 
+		-moz-border-radius:3px;-webkit-border-radius:3px;border-radius:3px;
+		background:url(../images/arrow.gif) no-repeat 93% 9px;
+	}
+div.more a:hover {color:#000;}
+
+.xclose	{position:absolute;width:18px;height:18px; background:url(../images/close.gif) no-repeat; top:4px;right:4px;}
+.xclose span{display:none;}	
+a.xclose{width:18px !important;}	
+
+.spill .box, .spill .quickLook {height: 320px !important;}
+.spill .product .productInfo {height:80px;}
+span.swatchCount {
+    color: #666666;
+    display: inline-block;
+    font-size: 11px;
+    margin: 4px 4px 0 0;
+    padding: 2px 6px;
+}
+
+div.spillContent, div.box {overflow:visible !important;}
+
+div.lightBox{position:relative; margin:-65px 0 0 15px;}
+div.lightBox a.bFix{font-weight:bold; color:#666 !important; border-bottom: none !important; text-decoration:none; width:42% !important;}
+
+.popup{display:none; z-index:999; position:absolute; text-align:left;}
+.popupInner
+	{
+		position:absolute; width:210px; text-align:left; 
+		background:#fff;z-index:300; 
+		border:1px solid #cacaca; 
+		-moz-border-radius:2px;-webkit-border-radius:2px;border-radius:2px;
+		top:-70px;left:-25px;
+		-moz-box-shadow: 0 0 5px 2px #ddd;-webkit-box-shadow: 0 0 5px 2px #ddd;box-shadow: 0 0 5px 2px #ddd;
+	}
+.popupBdr
+	{
+		margin:3px; padding:10px; 
+		min-height:100px;  
+		background:#fff; 
+		border:4px solid #fff; 
+		z-index:300;
+		-moz-border-radius:6px;-webkit-border-radius:6px;border-radius:6px;
+		float:left;
+		width:176px;
+	}
+.popupBdr ul {border:none; margin:0;}
+.popupBdr ul li {margin:0;}
+
+.popupInner b,.popupInner strong{display:block; padding:0;color:#000; }
+.popupInner strong {margin-top:10px;}
+.popupInner p{line-height:14px; margin:0; padding-top:5px; font-size:12px;}
+.popupInner ul{margin:5px 0 0 0; padding:0; font-size:12px;}
+.popupInner ul li{background:url(../images/line.gif) no-repeat 0 10px; padding:0 !important; line-height:16px !important; text-align:left; height:auto !important;}
+
+.breadcrumb{color:#535353; display:block; border-bottom:solid 1px #999; padding:5px 0 4px; margin-bottom:5px;}
+.breadcrumb a{text-decoration:none;}
+.breadcrumb a:hover{text-decoration:underline;}
+
+
+div#content {background:url(../images/lftsep.gif) repeat-y 0 0 !important;}
+
+div.sortHeader {display:block !important; font-size:18px; letter-spacing:0px; color:#666; margin-bottom:0 !important; padding:20px 0 0 16px;}
+ul.leftNav {margin-top:10px !important;}
+ul.childNavItem li {padding:5px 0;}
+ul.childNavItem li a {font-weight:bold; color:#666; font-size:13px;}
+
+div.spillContentHeader {border-bottom:none !important; width:798px !important; border-right:2px solid #E6E7E9;}
+div.spillContentHeader h1 {font-size:32px; padding-top:12px;}
+
+div.spillContent {width:800px !important;}
+
+div.xBox {margin-right:0 !important; min-height:100%; height:100% !important; background:none !important;}
+div.guidedNavSpillHeader {display:block !important;}

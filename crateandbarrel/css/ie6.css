@@ -1,0 +1,10 @@
+ul.leftNav li a {display:inline-block; width:166px;}
+.popupBdr {margin:4px 2px;}
+.popupInner	{left:-100px; top:-140px;}
+.productDisplay ul li
+	{
+	margin:0 18px;
+	border-left:5px solid #fff;
+	border-right:15px solid #fff;
+	}
+.popupBdr ul, .popupBdr li {margin-left:0 !important; margin-right:0 !important;}

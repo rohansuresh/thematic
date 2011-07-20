@@ -1,0 +1,362 @@
+`<!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Strict//EN" "http://www.w3.org/TR/xhtml1/DTD/xhtml1-strict.dtd"> <html xmlns="http://www.w3.org/1999/xhtml"> <head id="Head1">
+<title>$results.getMainblock().description</title>
+<meta  http-equiv="Content-Type" content="text/html; charset=utf-8" />
+<meta  http-equiv="imagetoolbar" content="no" />
+<meta  http-equiv="X-UA-Compatible" content="chrome=1" />
+<meta  name="description" content="Sleeper Sofas shopping and other items from the Living Room Furniture department at crateandbarrel.com" id="metaDescription" />
+<meta  name="keywords" content="Sleeper Sofas, Sleeper Sofas shopping, shop for Sleeper Sofas, crateandbarrel Living Room Furniture, crateandbarrel" id="metaKeywords" />
+<meta  http-equiv="P3P" content="CP='NON CURa TAIa OUR NOR UNI COM NAV STA'" /> <!-- Page Written at: 5/30/2011 5:09:50 AM--> 
+<link  rel="SHORTCUT ICON" href="http://www.crateandbarrel.com/favicon.ico" type="image/x-icon" />
+<link  rel="icon" type="image/vnd.microsoft.icon" href="http://www.crateandbarrel.com/favicon.ico" />
+<link  rel="canonical" href="http://www.crateandbarrel.com/furniture/sleeper-sofas/1" /> <!-- CSS --> <!-- CSS Master --> 
+<link  href="http://www.crateandbarrel.com/css/Common.css?dateStamp=20110524_0834" type="text/css" rel="stylesheet" />
+<link  href="http://www.crateandbarrel.com/css/Browse.css?dateStamp=20110524_0833" type="text/css" rel="stylesheet" />
+<link  href="http://www.crateandbarrel.com/GenAssets/TopNav.css?dateStamp=20110529_0526" type="text/css" rel="stylesheet" /> <!-- CSS Page Level --> <!--[if lt IE 7]> 
+<link  href="http://www.crateandbarrel.com/css/ie6.css?dateStamp=20110524_0815" type="text/css" rel="stylesheet" /> <![endif]--> <!--[if IE 7]> 
+<link  href="http://www.crateandbarrel.com/css/ie7.css?dateStamp=20110524_0815" type="text/css" rel="stylesheet" /> <![endif]--> 
+<link  href="http://www.crateandbarrel.com/css/print.css?dateStamp=20110228_1305" media="print" type="text/css" rel="stylesheet" /> <!--[if lt IE 8]> 
+<link  href="http://www.crateandbarrel.com/css/ie67print.css?dateStamp=20110117_1726" media="print" type="text/css" rel="stylesheet" /> <![endif]--> <!-- JS --> <!-- JS Master --> 
+<script type="text/javascript" src="http://ajax.googleapis.com/ajax/libs/jquery/1.4.2/jquery.min.js"></script>
+<script type="text/javascript" src="http://www.crateandbarrel.com/js/jQuery.js?dateStamp=20110524_0833"></script>
+<script type="text/javascript" >/* <![CDATA[ */var Crate=Crate||{};Crate.Config={};Crate.Config.imageServer='http://images.crateandbarrel.com/is/image/Crate/';Crate.Config.enableAutocomplete=false;Crate.Config.enableLivePerson = true;lpUnit='sales-dept50';/* ]]> */</script>
+<script type="text/javascript" src="http://www.crateandbarrel.com/js/Common.js?dateStamp=20110524_0833"></script>
+<script type="text/javascript" src="http://www.crateandbarrel.com/AjaxHandler.ashx?action=GetMessages|MessageList"></script>
+<script type="text/javascript" src="http://www.crateandbarrel.com/js/Browse.js?dateStamp=20110524_0833"></script>
+<script type="text/javascript" src="http://www.crateandbarrel.com/js/Account.js?dateStamp=20110509_1309"></script>
+<script type="text/javascript" src="http://www.crateandbarrel.com/js/Registry.js?dateStamp=20110425_1847"></script>
+<script type="text/javascript" >/* <![CDATA[ */lpAddVars('page','CartTotal','0.00');
+lpAddVars('page','Section','Furniture');
+lpAddVars('page','PageName','Furniture:Living Room Furniture:Sleeper Sofas Spill Page (1)');
+lpAddVars('session','PageNameS','Furniture:Living Room Furniture:Sleeper Sofas Spill Page (1)');
+lpAddVars('session','RegistryLoggedIn','False');
+lpAddVars('page','RegistryId','0');
+lpAddVars('page','RegistryValue','0.00');
+lpAddVars('page','RegistryItemCount','0');
+/* ]]> */</script> <!-- JS Page Level --> 
+<script type="text/javascript" src="http://www.crateandbarrel.com/js/Shopping.js?dateStamp=20110524_0833"></script> 
+<script type="text/javascript" >/* <![CDATA[ */
+Crate.Spill.checkHash();
+$(document).ready( function(){
+Crate.Spill.init();
+Crate.QuickLook.init();
+});
+/* ]]> */</script> 
+<script type="text/javascript" >/* <![CDATA[ */
+Crate.Spill.config.categoryId=14597
+Crate.Spill.config.isFamily=false
+Crate.Spill.config.isRoot=true
+Crate.Spill.config.maxResultCount=300/* ]]> */</script> 
+<script type="text/javascript" language="javascript">
+var initTestB = function() {
+$(document).bind( "RefinementsCount", function() {refinementsCount();});
+$(document).bind( "Refinement", rollOver);
+refinementsCount();
+rollOver();
+showCategories();
+}
+var showCategories = function() {
+if ($("#divNarrowCategories > .categories > .productLink").length > 5 & $(".jsItemRow").length >= 300)
+{
+$('#divNarrowCategories').removeClass('hidden');
+}
+else
+{
+$('#divNarrowCategories').addClass('hidden');
+}
+if ($('#divNarrowCategories:visible').length > 0) {
+$('.navItem9000001').addClass('hidden'); 
+$('.guidedNavigationTabItems').addClass('hidden');
+} else {
+if ($(".jsViewAllCat:visible").length === 0)
+{
+$('.navItem9000001').css('display', 'block');
+$('.navItem9000001').removeClass('hidden');
+}
+else
+{
+$('.navItem9000001').addClass('hidden'); 
+}
+$('.guidedNavigationTabItems').removeClass('hidden');
+}
+};       
+var rollOver = function(){
+$("#leftNav li.parentNavItem").hover( 
+function(event) {
+$(this).children(".childNavItem:first").show();
+},
+function(event) {
+$(this).children(".childNavItem").hide();
+}
+);
+//$("#leftCol").height( $("#leftNav").height()+ 41 );
+var zindexStart = $("li.parentNavItem").length * 2;
+$("li.parentNavItem").each(function(index, item) {
+$(this).css('zIndex', (zindexStart - (index*2)) + '');
+$(this).children("a").each(function(childIndex, childItem) {
+$(this).css('zIndex', (zindexStart - (index*2)) + '');
+});
+$(this).children("ul").each(function(childIndex, childItem) {
+$(this).css('zIndex', (zindexStart - (index*2) - (childIndex+1)) + '');
+});
+});
+};
+var refinementsCount = function() {
+//414466 should not show, therefore it's "active" status shouldn't count
+$(".navItem414466").removeClass("active");
+$(".navItem414466 .active").removeClass("active");
+showCategories();
+if ($("#leftNav").children().length - $("#leftNav").children().children("a.unchecked").length > 6) 
+{
+$(".jsGuidedNavShowAll").removeClass("hidden");
+$(".jsGuidedNavShowLess").addClass("hidden");
+}
+else
+{
+$(".jsGuidedNavShowAll").addClass("hidden");
+$(".jsGuidedNavShowLess").removeClass("hidden");
+}  
+if ($("#leftNav .active").length  > 0) 
+{
+$(".jsGuidedNavClearAll").removeClass("hidden");
+$("#leftCol #leftNav").addClass("leftNavActive");
+$("#leftCol").css("height", $("#leftNav").height() + 53 );
+}
+else
+{
+$(".jsGuidedNavClearAll").addClass("hidden");
+$("#leftCol #leftNav").removeClass("leftNavActive");
+$("#leftCol").css("height", $("#leftNav").height() + 53 );
+}
+if ($(".guidedNavigationTabItems a.checked").length > 0)
+{
+$(".jsGuidedNavClearAll").removeClass("hidden");
+}
+if ($("#leftNav li.jsExtra .active").length  > 0) 
+{
+$("#leftNav li.jsExtra").show();
+$(".jsGuidedNavShowAll").addClass("hidden");
+$(".jsGuidedNavShowLess").removeClass("hidden");
+$("#leftCol").css("height", $("#leftNav").height() + 53 );
+}
+if ($(".guidedNavigationTabItems .leftNav .active").length  > 0) 
+{
+$(".guidedNavigationTabItems .firstTab .jsAllItems").addClass("unchecked").removeClass("checked");
+//$("#leftCol").css("height", $("#leftNav").height() + 53 );
+}
+else 
+{
+$(".guidedNavigationTabItems .firstTab .jsAllItems").addClass("checked").removeClass("unchecked");
+}
+if ($("#leftNav > .extra:not(.navItem414466)").length === 0)
+{
+$(".jsGuidedNavShowAll").addClass("hidden");
+$(".jsGuidedNavShowLess").addClass("hidden");
+}
+};
+
+</script> <div class="mboxDefault"> <style type="text/css">
+#content {
+.display: none;
+}
+#normalFooter {
+.display: none;
+}
+</style> 
+<script language="javascript" type="text/javascript">/* <![CDATA[ */
+//_mboxDefaultContentOffer.prototype.setOnLoad(function () {$("#content").css("display", "block");});
+$(document).ready(function() { $("#content").css("display", "block"); $("#normalFooter").css("display", "block"); } );
+/* ]]> */</script> </div>
+<script type="text/javascript" >/* <![CDATA[ */try{mboxCreate('ttCrateGuidedNavigation','action=showCategories');}catch(e){Crate.Debug.errorObj(e);}/* ]]> */</script>
+
+<link href="style/style.css" rel="stylesheet" type="text/css" />
+<!--[if IE 6]>
+<link href="style/ie6.css" rel="stylesheet" type="text/css" />
+<![endif]-->
+<script type="text/javascript" src="js/bloom-popup.js"></script>
+
+</head>
+
+<body>
+<script src="http://pix04.revsci.net/H09836/b3/0/3/1003161/903037304.js?D=DM_LOC%3Dfile%253A%252F%252F%252FD%253A%252FProjects%252F01_Bloomreach%252FCrate%252520and%252520Barrel%252Fhtml%252Ftemplate.htm%253F_rsiL%253D0%26DM_CAT%3DHome%2520%253E%2520Furniture%2520%253E%2520Living%2520Room%2520Furniture%2520%253E%2520Sleeper%2520Sofas%26DM_EOM%3D1&amp;C=H09836" type="text/javascript"></script><script src="file://ads.revsci.net/adserver/ako?activate&amp;csid=H09836" type="text/javascript"></script><div style="visibility: visible; display: block;" class="mboxDefault">  
+ </div>
+<div id="mboxMarker-default-ttCrateGuidedNavigation-0" style="visibility: hidden; display: none;">&nbsp;</div>
+
+
+ <div class="" id="bodyWrap"> <div class="jsGrowlContainer spillPage" id="pageWrap"> <span class="largePreview jsSwatchOver hidden"> <img class="fabricSwatchLargeImg jsFabricSwatchImg" src="http://www.crateandbarrel.com/assets/backgrounds/2x2-background-gray.png" alt=""> <span class="stock jsStock">Stock Plus Color</span> <span class="fabricName"><strong>Fabric Name:</strong> <span class="jsFabricName">fabric name</span></span> <span class="fabricColor"><strong>Color:</strong> <span class="jsFabricColor">color</span></span> <span class="fabricType"><strong>Type:</strong> <span class="jsFabricType">material type</span>&nbsp;</span> </span> <div class="carouselWrap carouselVisualCart jsVisualCart jsCarouselVisualCart"><div style="display: block;" class="jcarousel-container jcarousel-container-horizontal"><div disabled="true" style="display: block;" class="jcarousel-prev jcarousel-prev-horizontal jcarousel-prev-disabled jcarousel-prev-disabled-horizontal hidden"></div><div disabled="false" style="display: block;" class="jcarousel-next jcarousel-next-horizontal hidden"></div><div class="jcarousel-clip jcarousel-clip-horizontal"><ul style="width: 937px; left: 0px;" id="carouselVC" class="productDisplay thumbView jsBasketJust jcarousel-list jcarousel-list-horizontal fR"><li jcarouselindex="1" class="jcarousel-item jcarousel-item-horizontal jcarousel-item-1 jcarousel-item-1-horizontal jcarousel-item-placeholder jcarousel-item-placeholder-horizontal"></li><li jcarouselindex="2" class="jcarousel-item jcarousel-item-horizontal jcarousel-item-2 jcarousel-item-2-horizontal jcarousel-item-placeholder jcarousel-item-placeholder-horizontal"></li><li jcarouselindex="3" class="jcarousel-item jcarousel-item-horizontal jcarousel-item-3 jcarousel-item-3-horizontal jcarousel-item-placeholder jcarousel-item-placeholder-horizontal"></li><li jcarouselindex="4" class="jcarousel-item jcarousel-item-horizontal jcarousel-item-4 jcarousel-item-4-horizontal jcarousel-item-placeholder jcarousel-item-placeholder-horizontal"></li><li jcarouselindex="5" class="jcarousel-item jcarousel-item-horizontal jcarousel-item-5 jcarousel-item-5-horizontal jcarousel-item-placeholder jcarousel-item-placeholder-horizontal"></li><li jcarouselindex="6" class="jcarousel-item jcarousel-item-horizontal jcarousel-item-6 jcarousel-item-6-horizontal jcarousel-item-placeholder jcarousel-item-placeholder-horizontal"></li><li jcarouselindex="7" class="jcarousel-item jcarousel-item-horizontal jcarousel-item-7 jcarousel-item-7-horizontal jcarousel-item-placeholder jcarousel-item-placeholder-horizontal"></li><li jcarouselindex="8" class="jcarousel-item jcarousel-item-horizontal jcarousel-item-8 jcarousel-item-8-horizontal jcarousel-item-placeholder jcarousel-item-placeholder-horizontal"></li><li jcarouselindex="9" class="jcarousel-item jcarousel-item-horizontal jcarousel-item-9 jcarousel-item-9-horizontal jcarousel-item-placeholder jcarousel-item-placeholder-horizontal"></li></ul></div></div><div class="totals jsTotalSect"><span>Merchandise Total: $0.00</span><span class="shippingMessage nsInt">&nbsp;&nbsp;&nbsp;|&nbsp;&nbsp;&nbsp;Est. Shipping and Handling: $0.00</span></div></div> <div class="carouselWrap carouselVisualCart myFavoritesCarousel jsVisualFavorites jsCarouselVisualFavorites"><div style="display: block;" class="jcarousel-container jcarousel-container-horizontal"><div disabled="true" style="display: block;" class="jcarousel-prev jcarousel-prev-horizontal jcarousel-prev-disabled jcarousel-prev-disabled-horizontal hidden"></div><div disabled="false" style="display: block;" class="jcarousel-next jcarousel-next-horizontal hidden"></div><div class="jcarousel-clip jcarousel-clip-horizontal"><ul style="width: 937px; left: 0px;" id="carouselFave" class="productDisplay thumbView jsFavesJust jcarousel-list jcarousel-list-horizontal fR"><li jcarouselindex="1" class="jcarousel-item jcarousel-item-horizontal jcarousel-item-1 jcarousel-item-1-horizontal jcarousel-item-placeholder jcarousel-item-placeholder-horizontal"></li><li jcarouselindex="2" class="jcarousel-item jcarousel-item-horizontal jcarousel-item-2 jcarousel-item-2-horizontal jcarousel-item-placeholder jcarousel-item-placeholder-horizontal"></li><li jcarouselindex="3" class="jcarousel-item jcarousel-item-horizontal jcarousel-item-3 jcarousel-item-3-horizontal jcarousel-item-placeholder jcarousel-item-placeholder-horizontal"></li><li jcarouselindex="4" class="jcarousel-item jcarousel-item-horizontal jcarousel-item-4 jcarousel-item-4-horizontal jcarousel-item-placeholder jcarousel-item-placeholder-horizontal"></li><li jcarouselindex="5" class="jcarousel-item jcarousel-item-horizontal jcarousel-item-5 jcarousel-item-5-horizontal jcarousel-item-placeholder jcarousel-item-placeholder-horizontal"></li><li jcarouselindex="6" class="jcarousel-item jcarousel-item-horizontal jcarousel-item-6 jcarousel-item-6-horizontal jcarousel-item-placeholder jcarousel-item-placeholder-horizontal"></li><li jcarouselindex="7" class="jcarousel-item jcarousel-item-horizontal jcarousel-item-7 jcarousel-item-7-horizontal jcarousel-item-placeholder jcarousel-item-placeholder-horizontal"></li><li jcarouselindex="8" class="jcarousel-item jcarousel-item-horizontal jcarousel-item-8 jcarousel-item-8-horizontal jcarousel-item-placeholder jcarousel-item-placeholder-horizontal"></li><li jcarouselindex="9" class="jcarousel-item jcarousel-item-horizontal jcarousel-item-9 jcarousel-item-9-horizontal jcarousel-item-placeholder jcarousel-item-placeholder-horizontal"></li></ul></div></div></div> <div class="carouselWrap carouselVisualCart myRegistryCarousel jsVisualRegistry jsCarouselVisualRegistry"><div style="display: block;" class="jcarousel-container jcarousel-container-horizontal"><div disabled="true" style="display: block;" class="jcarousel-prev jcarousel-prev-horizontal jcarousel-prev-disabled jcarousel-prev-disabled-horizontal hidden"></div><div disabled="false" style="display: block;" class="jcarousel-next jcarousel-next-horizontal hidden"></div><div class="jcarousel-clip jcarousel-clip-horizontal"><ul style="width: 937px; left: 0px;" id="carouselReg" class="productDisplay thumbView jsRegistryJust jcarousel-list jcarousel-list-horizontal fR"><li jcarouselindex="1" class="jcarousel-item jcarousel-item-horizontal jcarousel-item-1 jcarousel-item-1-horizontal jcarousel-item-placeholder jcarousel-item-placeholder-horizontal"></li><li jcarouselindex="2" class="jcarousel-item jcarousel-item-horizontal jcarousel-item-2 jcarousel-item-2-horizontal jcarousel-item-placeholder jcarousel-item-placeholder-horizontal"></li><li jcarouselindex="3" class="jcarousel-item jcarousel-item-horizontal jcarousel-item-3 jcarousel-item-3-horizontal jcarousel-item-placeholder jcarousel-item-placeholder-horizontal"></li><li jcarouselindex="4" class="jcarousel-item jcarousel-item-horizontal jcarousel-item-4 jcarousel-item-4-horizontal jcarousel-item-placeholder jcarousel-item-placeholder-horizontal"></li><li jcarouselindex="5" class="jcarousel-item jcarousel-item-horizontal jcarousel-item-5 jcarousel-item-5-horizontal jcarousel-item-placeholder jcarousel-item-placeholder-horizontal"></li><li jcarouselindex="6" class="jcarousel-item jcarousel-item-horizontal jcarousel-item-6 jcarousel-item-6-horizontal jcarousel-item-placeholder jcarousel-item-placeholder-horizontal"></li><li jcarouselindex="7" class="jcarousel-item jcarousel-item-horizontal jcarousel-item-7 jcarousel-item-7-horizontal jcarousel-item-placeholder jcarousel-item-placeholder-horizontal"></li><li jcarouselindex="8" class="jcarousel-item jcarousel-item-horizontal jcarousel-item-8 jcarousel-item-8-horizontal jcarousel-item-placeholder jcarousel-item-placeholder-horizontal"></li><li jcarouselindex="9" class="jcarousel-item jcarousel-item-horizontal jcarousel-item-9 jcarousel-item-9-horizontal jcarousel-item-placeholder jcarousel-item-placeholder-horizontal"></li></ul></div></div></div> <a id="top" title="Top of Page" class="inv"></a> <div style="visibility: visible; display: block;" id="ttCrateLeftNavMBox"></div>
+<script type="text/javascript">/* <![CDATA[ */try{mboxDefine('ttCrateLeftNavMBox','CrateLeftNavMBox_Events');}catch(e){Crate.Debug.errorObj(e);}/* ]]> */</script> <!-- ==================== BEGIN HEADER ==================== -->
+<div id="normalHeader"> <div class="headerLogo"> <a class="logo" href="/"> <img alt="Crate and Barrel" src="http://www.crateandbarrel.com/assets/logo/Logo.gif"> </a> <img alt="confirmation page Help" src="http://www.crateandbarrel.com/assets/Confirm/printConfirmHelp.gif" class="confirmHelp"> <div id="shippingTo" class="mL45"> <ul> <li class="shippingTo "> <a id="lnkCountry" href="/Popup/International-Shipping.aspx?height=600&amp;width=740" class="thickbox transparentPNG us"> 
+Welcome
+</a> </li> </ul> </div> <div id="divSeasonalMessaging" class="seasonalMessaging">&nbsp;</div> </div> <!-- Begin Co-Branding --> <div class="coBranding"> <span>Visit our other sites:</span> <a id="CB2Tab" onclick="Crate.CoBranding.tagOmniture('event27');" href="http://www.cb2.com?cb=1" class="cb2" rel="external"><span>CB2</span></a> <span class="delimiter">&nbsp;</span> <a id="LONTab" onclick="Crate.CoBranding.tagOmniture('event27');" href="http://www.landofnod.com?cb=1" class="landOfNod" rel="external"><span>The Land of Nod</span></a> </div> <!-- End Co-Branding --> <div class="phoneNumber nsInt">
+800.967.6696</div> <div class="phoneNumber sInt">
+(00+1) 630.369.4464</div> <form class="search" action="javascript:;" onkeyup="Crate.UI.BindEnterKey(event,Crate.Search.search)"> <fieldset> <label>Search</label> <div class="mboxDefault" style="visibility: visible; display: block;"></div><script type="text/javascript">/* &lt;![CDATA[ */try{mboxCreate('ttCrateAutoComplete');}catch(e){Crate.Debug.errorObj(e);}/* ]]&gt; */</script><div style="visibility: hidden; display: none;" id="mboxMarker-default-ttCrateAutoComplete-0">&nbsp;</div><script language="JavaScript" src="http://cratebarrel.tt.omtrdc.net/m2/cratebarrel/mbox/standard?mboxHost=www.crateandbarrel.com&amp;mboxSession=1306743999505-882411&amp;mboxPC=1306733719904-657884.18&amp;mboxPage=1306746591028-660030&amp;screenHeight=768&amp;screenWidth=1366&amp;browserWidth=1366&amp;browserHeight=336&amp;browserTimeOffset=330&amp;colorDepth=24&amp;mboxCount=3&amp;mbox=ttCrateAutoComplete&amp;mboxId=0&amp;mboxTime=1306766391944&amp;mboxURL=http%3A%2F%2Fwww.crateandbarrel.com%2Ffurniture%2Fsleeper-sofas%2F1&amp;mboxReferrer=&amp;mboxVersion=40"></script><div id="mboxImported-default-ttCrateAutoComplete-0" style="visibility: hidden; display: none;"><!-- Offer Id: 24152  --><script type="text/javascript">
+/*TT&gt;SC | v3 ==&gt; Response Plug-ins*/
+window.s_tnt=window.s_tnt||'',tntVal='23705:0:0,';
+if(window.s_tnt.indexOf(tntVal)==-1){window.s_tnt+=tntVal}
+</script></div> <div class="searchBox"> <input type="text" value="Enter keyword or item #" class="searchBoxDefaultText jsSearchTerm jsToggle"> </div> <a href="#Crate.Search.search" class="searchBoxSubmitButton"></a> </fieldset> </form> <div class="headerNav" id="headerNav"> <ul class="nsInt"> <li id="loggedIn" class="signOut jsSignOut hidden"> <span id="hdrWelcome" class="welcome"><span>Hi,</span></span><span id="hdrWelcomeName" class="jsWelcomeName"><a href="/Account/">&nbsp;</a></span> <a href="/?logout=true" class="jsSignOut signOut"><span>Sign Out</span></a> </li> <li id="logIn" class="signIn jsSignIn"> <a id="lnkSignin" href="/Popup/login.aspx?height=625&amp;width=740&amp;accountLite=true" class="thickbox"><span>Sign In</span> </a></li> <!--Code will write HTML in Response--> <li id="lpButton" class="livePerson" style="visibility: visible;"><a onclick="lpMTagConfig.dynButton0.actionHook();;" href="javascript:;"><img src="http://www.crateandbarrel.com/assets/chat/button/repoffline.gif"></a></li> </ul> <ul class="visualCart jsGrowlCancel"> <!-- if these links change, be sure to update the shopping_additems javascript --> <li><a class="myCart jsVisualCart jsMyCart" href="/Checkout/Basket.aspx"><span class="countWrap"><span class="count jsCountBasket">0</span></span></a></li> <li class="nsInt"><a class="myFavorites jsVisualFavorites jsMyFaves jsRequiresLogin" href="/Favorites/"><span class="countWrap"><span class="count jsCountFavorites">0</span></span></a></li> <li class="nsInt"><a class="myRegistry jsVisualRegistry jsMyReg jsRequiresRegistry" href="/Gift-Registry/Registrant/List.aspx"><span class="countWrap"><span class="count jsCountRegistry">0</span></span></a></li> <li class="myCheckout"> <a class="mainButtonSmall jsSubmit" href="/Checkout/Basket.aspx"><span class="buttonLeft">&nbsp;</span><span class="buttonProgressWheel"><span class="buttonProgressWheelText">Checkout</span></span><span class="buttonText">Checkout</span></a> </li> </ul> </div> </div>
+<!-- ==================== END HEADER ==================== --> <!-- ==================== BEGIN CHECKOUT HEADER ==================== --> <!-- ==================== END CHECKOUT HEADER ==================== -->
+
+<div style="display: block;" class="content spill" id="content">
+
+<div class="nRightCol">
+	<div class="spillContentHeader guidedNavSpillHeader">
+		<h1>$results.getMainblock().query</h1>
+	</div>
+
+	<h2 class="cuTitle">Customer Favorites</h2>
+	<div class="spillContent jsSortContainer"> 
+		#set ( $count = 0)
+		#foreach ( $res in $results.getMainblock().getResultsList() )
+			#set ( $count = $count + 1 )				
+			<div class="jsItemRow product box">
+				<div class="jsQuickLook quickLook">
+					<a class="productNameLink" title="" href="$res.url">
+					<span class="spillfabricSwatch"><img alt="Amalfi: Cream" src="http://images.crateandbarrel.com/is/image/Crate/AmalfiCreamS11_zm?&amp;wid=14&amp;hei=14"><img alt="Amalfi: Cork" src="http://images.crateandbarrel.com/is/image/Crate/AmalfiCorkS11_zm?&amp;wid=14&amp;hei=14"><img alt="Amalfi: Pebble" src="http://images.crateandbarrel.com/is/image/Crate/AmalfiPebbleS11_zm?&amp;wid=14&amp;hei=14"><img alt="Amalfi: Wheat" src="http://images.crateandbarrel.com/is/image/Crate/AmalfiWheatS11_zm?&amp;wid=14&amp;hei=14"><img alt="Amalfi: Yukon" src="http://images.crateandbarrel.com/is/image/Crate/AmalfiYukonS11_zm?&amp;wid=14&amp;hei=14"><span class="swatchCount">&nbsp;</span></span>
+					<img src="$res.image" alt="">
+					<span class="productInfo allVerticals">
+						<span class="productName">$res.heading</span>
+						<span class="reg"><span class="regPrice">$res.cost</span></span>
+					</span>
+
+					</a>
+					<span class="jsQuickLookOverlay quickLookOverlay hidden"><a class="thickbox quickLook" href="javascript:void(0);"></a></span>
+				</div>
+				<div class="lightBox">
+					<a href="javascript:void(0);" onMouseUp="document.getElementById('br-0-$count').style.display = 'block';" onMouseDown="javascript:hideBRPopup('popup');" class="bFix">More Details</a>
+					<!--[popup]-->
+					<div id="br-0-$count" class="popup">
+					  <div class="popupInner">
+						<div class="popupBdr"> 
+							<a href="javascript:void(0);" onMouseDown="document.getElementById('br-0-$count').style.display = 'none';" class="xclose"><span>close</span></a> 					  
+							<p>$res.desc</p>
+						</div>
+					  </div>
+					</div>
+					<!--[/popup]-->
+				</div>
+			</div>
+		#end
+
+		<div class="more"><a href="$results.getMainblock().link">More results</a></div>
+	</div>
+
+	#set ( $blockcount = 0)
+	#foreach ( $thematicblock in $results.getRefinementsList() )
+		#set ( $blockcount = $blockcount + 1 )
+		<h2 class="refTitle">$thematicblock.query</h2>
+		<div class="spillContent jsSortContainer"> 
+			#set ( $count = 0)
+			#foreach ( $res in $thematicblock.getResultsList() )
+				#set ( $count = $count + 1 )
+				<div class="jsItemRow product box">
+					<div class="jsQuickLook quickLook">
+						<a class="productNameLink" title="" href="$res.url">
+						<span class="spillfabricSwatch"><img alt="Amalfi: Cream" src="http://images.crateandbarrel.com/is/image/Crate/AmalfiCreamS11_zm?&amp;wid=14&amp;hei=14"><img alt="Amalfi: Cork" src="http://images.crateandbarrel.com/is/image/Crate/AmalfiCorkS11_zm?&amp;wid=14&amp;hei=14"><img alt="Amalfi: Pebble" src="http://images.crateandbarrel.com/is/image/Crate/AmalfiPebbleS11_zm?&amp;wid=14&amp;hei=14"><img alt="Amalfi: Wheat" src="http://images.crateandbarrel.com/is/image/Crate/AmalfiWheatS11_zm?&amp;wid=14&amp;hei=14"><img alt="Amalfi: Yukon" src="http://images.crateandbarrel.com/is/image/Crate/AmalfiYukonS11_zm?&amp;wid=14&amp;hei=14"><span class="swatchCount">+7 more</span></span>
+						<img src="$res.image" alt="">
+						<span class="productInfo allVerticals">
+							<span class="productName">$res.heading</span>
+							<span class="reg"><span class="regPrice">$res.cost</span></span>
+						</span>
+						</a>
+						<span class="jsQuickLookOverlay quickLookOverlay hidden"><a class="thickbox quickLook" href="javascript:void(0);"></a></span>
+					</div>
+					<div class="lightBox">
+						<a href="javascript:void(0);" onMouseUp="document.getElementById('pop-$blockcount-$count').style.display = 'block';" onMouseDown="javascript:hideBRPopup('popup');" class="bFix">More Details</a>
+						<!--[popup]-->
+						<div id="pop-$blockcount-$count" class="popup">
+						  <div class="popupInner">
+							<div class="popupBdr"> 
+								<a href="#" onMouseDown="document.getElementById('pop-$blockcount-$count').style.display = 'none';" class="xclose"><span>close</span></a> 					  
+								<p>$res.desc</p>
+							</div>
+						  </div>
+						</div>
+						<!--[/popup]-->
+					</div>
+				</div>
+			#end
+			<div class="more"><a href="$thematicblock.link">More results</a></div>
+		</div>
+	#end
+	
+	
+		
+</div>
+
+<div class="xBox" id="leftCol">
+	<div class="sortHeader">Related Topics</div>
+	<ul id="leftNav" class="leftNav">
+	<li>
+		<ul class="childNavItem">
+			#foreach ( $res in $results.getRelatedSearchesList() )
+				<li><a href="$res.url">$res.text</a></li>
+			#end  			
+		</ul>
+	</li>
+	</ul>
+</div>
+
+</div>
+
+
+
+<div class="footer" id="normalFooter"> <ul> <li class="section">Get To Know Us</li> <li><a href="/About-Us/">About Us</a></li> <li><a href="/Careers/">Careers</a></li> <li><a href="/Environment/">Eco Initiatives</a></li> <li><a href="/Social-Responsibility/">Social Responsibility</a></li> <li><a href="/Site-Index.aspx">Site Index</a></li> <li class="section nsInt">My Account</li> <li class="nsInt"><a href="/Account/">Access Your Account</a></li> <li class="section nsInt">Credit Card</li> <li class="nsInt"><a rel="external" href="https://onlineaccess.mycreditcard.cc/crateandbarrel">Apply for a Credit Card</a></li> </ul> <ul> <li class="section">Let Us Help You</li> <li class="nsInt"><a href="/Customer-Service/">Customer Service</a></li> <li class="sInt"><a href="/Customer-Service/International-Orders.aspx/">Customer Service</a></li> <li><a href="/Customer-Service/Contact-Us.aspx">Contact Us</a></li> <li class="nsInt"><a href="/Order-Tracking/">Order Tracking</a></li> <li class="nsInt"><a href="/Customer-Service/FAQ-Shipping-Delivery.aspx">Shipping/Delivery</a></li> <li class="nsInt"><a href="/Customer-Service/FAQ-Returns-Exchanges.aspx">Returns/Exchanges</a></li> <li class="nsInt"><a href="/Customer-Service/International-Orders.aspx">International Orders</a></li> <li class="nsInt"><a href="http://crateandbarrel.custhelp.com/cgi-bin/crateandbarrel.cfg/php/enduser/crate_faqsearch.php">FAQs</a></li> <li class="nsInt"><a href="/Business-Sales/">Business Sales</a></li> <li class="nsInt"><a href="/designer-rewards/">Designer Rewards</a></li> <li class="sInt"><a href="/Customer-Service/International-FAQ.aspx">FAQ</a></li> <li class="sInt"><a href="https://services.fiftyone.com/tracking.srv" rel="external">Order Tracking</a></li> <li class="sInt"><a href="/Customer-Service/International-Returns.aspx">Returns/Exchanges</a></li> <li class="sInt"><a href="/Customer-Service/International-Order-Request.aspx">International Quote Form</a></li> </ul> <ul> <li class="section">Our Stores</li> <li><a href="/Stores/">Store Locator</a></li> <li class="nsInt"><a href="/the-marimekko-shop/">The Marimekko Shop</a></li> <li class="section nsInt">Our Catalogues</li> <li class="nsInt"><a href="/Catalogue/">View Catalogue Flipbook</a></li> <li class="nsInt"><a href="/Catalogue/Request.aspx">Request a Catalogue</a></li> <li class="nsInt"><a href="/Customer-Service/Catalogue-Preference.aspx">Catalogue Preference</a></li> <li class="section">Anywhere, Anytime</li> <li><a href="/Mobile/" class="iconLink iconMobile">Now we are Mobile</a></li> </ul> <ul> <li class="section">Let's Get Social</li> <li><a href="http://www.facebook.com/crateandbarrel?v=app_7146470109" class="iconLink iconFacebook">Facebook</a></li> <li><a href="http://twitter.com/crateandbarrel" class="iconLink iconTwitter">Twitter</a></li> <li><a href="/Reviews/" class="iconLink iconReview">Write a Review</a></li> <li class="section">Love us? Like us. </li> <li id="fb-like"></li> </ul> <ul class="last"> <li class="section">Email</li> <li>Send me news, sale notices</li> <li class="emailForm"> <form class="search" action="javascript:;" onkeyup="Crate.UI.BindEnterKey(event,Crate.EmailSignup.requestEmails)"> <fieldset> <div id="emailAlert"> <div class="validation"> </div> <div class="formText"> <input type="text" value="Enter Email Address" class="blur jsToggle jsEmail" maxlength="66" /> </div> <div class="arrowLinkOuter"> <a href="#Crate.EmailSignup.requestEmails" class="arrowLink jsSubmit"></a> </div> </div> </fieldset> </form> </li> <li class="section">Contact Us</li> <li><a href="/Customer-Service/Contact-Us.aspx">Contact Us</a></li> <li><a href="javascript:O_LC()">Give Us Feedback</a></li> <li class="nsInt"><span>1.800.967.6696</span></li> <li class="sInt"><span>(00+1) 630.369.4464</span></li> <li class="ourBrands">Our Brands</li> <li><a href="http://www.cb2.com/" class="fL" rel="external"> <img src="/assets/logo/CB2_cobrand.gif" alt="CB2.com" /> </a> <div class="delimiter"> </div> <a href="http://www.landofnod.com/" class="fL" rel="external"> <img src="/assets/logo/LON_cobrand.gif" alt="LandofNod.com" /> </a></li> </ul> <div class="copyright"> <div class="wrap fL footQuickLinks"> <a class="home" href="/">Home</a><span class="pipe">|</span><a class="myCart" href="/Checkout/Basket.aspx">My Cart</a> <div class="clear"></div> </div> <div class="wrap fL"> <a class="terms" href="/Customer-Service/Terms-Of-Use.aspx">Terms of Use</a><span class="pipe">&#160;&#160;|&#160;</span> <a class="pp" href="/Customer-Service/Privacy-Policy.aspx">Privacy Policy</a><span class="pipe">&#160;&#160;|&#160;</span> 
+
+&#169;2011 Crate and Barrel. All Rights Reserved.
+</div> <div class="clear"></div> </div> <div class="clear"></div> </div> 
+<script type="text/javascript">/* <![CDATA[ */
+$("#fb-like").append(
+$('<iframe />').attr({
+src: document.location.protocol + "//www.facebook.com/plugins/like.php?href=http%3A%2F%2Fwww.facebook.com%2Fcrateandbarrel&layout=button_count&show_faces=false&width=150&action=like&font=arial&colorscheme=light&height=21",
+scrolling: "no",
+frameborder: "0", 
+style: "overflow:hidden; width:85px; height:21px;",
+frameBorder: "0",
+allowTransparency: 'true'
+})
+);     
+/* ]]> */</script> </div> <div class="tags" id="TagArea"> 
+<script type="text/javascript" src="http://www.crateandbarrel.com/js/Omniture.js?dateStamp=20110419_1015"></script> 
+<script type='text/javascript'> <!--
+try{if(omntag != null){omntag.pageName='Furniture:Living Room Furniture:Sleeper Sofas Spill Page (1)';
+omntag.channel='furniture';
+omntag.server='ST1-CB-WEB-01';
+/* E-commerce Variables */ 
+omntag.events='event26';
+omntag.eVar5='Furniture:Living Room Furniture:Sleeper Sofas';
+omntag.eVar8='Furniture';
+omntag.eVar37='N/A';
+omntag.prop5='Browse';
+omntag.prop6='Spill Page';
+omntag.prop14='Furniture';
+/********** DO NOT ALTER ANYTHING BELOW THIS LINE !  ***************/ 
+var s_code=omntag.t();if(s_code)document.write(s_code);
+}}catch(e){}//--> </script> 
+<script type="text/javascript">
+if(navigator.appVersion.indexOf('MSIE')>=0)document.write(unescape('%3C')+'\!-'+'-')
+</script> <!-- End SiteCatalyst code version: H.9. --> 
+<script type="text/javascript" >/* <![CDATA[ */
+$(document).ready(function() {
+$.getScript('http://ethnio.com/remotes/69911', function() {
+}); 
+});/* ]]> */</script> 
+<script type="text/javascript" >/* <![CDATA[ */
+$(window).load(function() {
+$.getScript('http://js.revsci.net/gateway/gw.js?csid=H09836', function() { 
+if( window.H09836 ? true : false ){ 
+H09836.DM_cat('Home > Furniture > Living Room Furniture > Sleeper Sofas'); 
+H09836.DM_tag();
+}
+});
+});
+/* ]]> */</script> 
+<script type="text/javascript">
+var _gaq = _gaq || [];
+_gaq.push(['_setAccount', 'UA-16151450-2']);
+_gaq.push(['_trackPageview']);
+(function() {
+var ga = document.createElement('script'); ga.type = 'text/javascript'; ga.async = true;
+ga.src = ('https:' == document.location.protocol ? 'https://ssl' : 'http://www') + '.google-analytics.com/ga.js';
+var s = document.getElementsByTagName('script')[0]; s.parentNode.insertBefore(ga, s);
+})();
+
+</script> </div> </div> </body> </html>
