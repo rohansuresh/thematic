@@ -1,0 +1,113 @@
+.clear{clear:both;}
+.gap{clear:both; height:20px;}
+img{border:none;}
+#container
+	{
+		margin:0 auto;padding:0 5px;width:940px;clear:both;
+		font:normal 10px Verdana, Arial, Helvetica, sans-serif !important;color:#666;
+	}
+#leftCol{float:left;width:190px;}
+#mainCol{float:right;width:729px;}	
+.mainColMid{float:left;width:545px;}	
+
+.leftNavAea{display:block;border:solid #ddd; border-width:0 1px 1px 1px;}	
+#leftCol div.title
+	{
+		display:block; 
+		background:url(../images/back_head.gif) repeat-x;
+		height:23px; 
+		border:solid #ddd; border-width:1px 0;
+		font-weight:bold;color:#010177; line-height:20px;
+		padding:0 5px
+	}
+
+ul.leftNav	{margin:0 0 20px 0; padding:5px; list-style:none;}
+ul.leftNav li	{margin-bottom:1px;}
+ul.leftNav li a
+	{display:block;line-height:18px;color:#436676; text-decoration:underline;}
+ul.leftNav li a:hover, ul.leftNav li .active	{color:#000;}
+
+.breadcrumb{color:#009; display:block; border-bottom:solid 1px #f1f1f1; height:20px; margin-bottom:5px; padding-top:10px; width:724px;}
+
+.productBox div.title, .productBox div.title2
+	{
+		background:url(../images/back_title.png) repeat-x;
+		height:28px; line-height:28px;
+		color:#000;font-weight:bold; font-size:12px;
+		padding:0 5px;
+	}
+.productBox div.title	{text-transform:uppercase;}
+.productBox div.title2	{text-transform:none;}
+.productBox div.title2 span	{text-transform:uppercase;}
+.productBox div.top{background:url(../images/back_main_box.gif) no-repeat 0 0; height:20px;}	
+.productBox div.bottom{background:url(../images/back_main_box.gif) no-repeat 0 bottom; height:20px;}	
+.productBox div.inner	{display:block; padding:0 0px;}
+.productBox h3{font-weight:normal; font-size:12px;color:#009; padding-bottom:5px; margin:20px 0 0 0;}
+
+.productDisplay	{border:solid #ddd 1px;background:#fff;display:block;}
+.productDisplay ul{margin:0; padding:0 0 0 15px; list-style:none;}
+.productDisplay ul li
+	{
+	float:left; 
+	width:165px;
+	border-right:solid 1px #ddd; 
+	text-align:center; padding:5px; 
+	height:245px;
+	}
+.productDisplay ul li.last{margin-right:0px !important; border-right:0 !important;}	
+.productDisplay ul li div.imgBox{text-align:center; height:90px; display:block; padding-top:10px; overflow:hidden;}
+.productDisplay ul li h5{font-weight:normal;padding-bottom:3px; font-size:10px; margin:2px 0;}
+.productDisplay ul li a{display:inline-block; cursor:pointer;}
+.productDisplay ul li a:hover,
+.productDisplay div.more a:hover
+{color:#000;}	
+.productDisplay ul li div.price{display:block; padding:7px 0;}
+.productDisplay ul li div.price span{color:#009; font-size:14px;font-weight:bold;}
+.productDisplay ul li div.order{display:block; padding:2px 0;color:#000;}
+.productDisplay ul li div.order span{color:#ff8523;font-weight:bold;}
+
+#mainCol h2 {font-size:14px; color:#009; padding-top:10px; padding-bottom:8px;}
+
+/*** Popup CSS ***/
+div.more{clear:both; text-align:right; background:#f1f1f1; border-top:solid 1px #ddd; padding-right:5px;}
+div.more a
+	{
+		display:inline-block; background:url(../images/back_more.gif) no-repeat right 6px;
+		padding-right:8px; line-height:20px;
+		text-decoration:none;color:#000;
+	}
+
+.xclose	{position:absolute;width:18px;height:18px; background:url(../images/close.gif) no-repeat; top:10px;right:12px;}
+.xclose span{display:none;}	
+a.xclose{width:18px !important;}	
+
+div.lightBox{position:relative; margin:0;}
+div.lightBox a{color:#000 !important; text-decoration:none; display:inline-block;}
+
+.popup{display:none; z-index:999; position:absolute; text-align:left;}
+.popupInner
+	{
+		position:absolute; width:190px; text-align:left; 
+		background:#fff;z-index:300; 
+		-moz-border-radius:10px;-webkit-border-radius:10px;border-radius:10px;
+		top:-40px;left:-15px;
+		-moz-box-shadow: 0 0 10px 5px #ddd;-webkit-box-shadow: 0 0 10px 5px #ddd;box-shadow: 0 0 10px 5px #ddd;
+	}
+.popupBdr
+	{
+		margin:3px; padding:10px; 
+		min-height:100px;  
+		background:#fff; 
+		border:4px solid #6f6dae; 
+		z-index:300; overflow:hidden;
+		-moz-border-radius:6px;-webkit-border-radius:6px;border-radius:6px;
+		float:left;
+		width:156px;
+	}
+
+.popupInner b,.popupInner strong{display:block; padding:0;font-size:11px; color:#000;}
+.popupInner strong {margin-top:10px;}
+.popupInner p{line-height:14px; margin:2px 0; padding:3px 0 0 0; font-size:11px; font-weight:normal !important; color:#333;}
+
+
+

@@ -1,0 +1,4 @@
+.popupBdr {margin:4px 2px; width:190px;}
+.popupInner	{top:-80px; left:-160px; width:200px;}
+.popupBdr ul, .popupBdr li {margin-left:0 !important; margin-right:0 !important;}
+
