@@ -210,7 +210,7 @@ if(window.s_tnt.indexOf(tntVal)==-1){window.s_tnt+=tntVal}
 			<div class="jsItemRow product box">
 				<div class="jsQuickLook quickLook">
 					<a class="productNameLink" title="" href="$res.url">
-					<span class="spillfabricSwatch"><img alt="Amalfi: Cream" src="http://images.crateandbarrel.com/is/image/Crate/AmalfiCreamS11_zm?&amp;wid=14&amp;hei=14"><img alt="Amalfi: Cork" src="http://images.crateandbarrel.com/is/image/Crate/AmalfiCorkS11_zm?&amp;wid=14&amp;hei=14"><img alt="Amalfi: Pebble" src="http://images.crateandbarrel.com/is/image/Crate/AmalfiPebbleS11_zm?&amp;wid=14&amp;hei=14"><img alt="Amalfi: Wheat" src="http://images.crateandbarrel.com/is/image/Crate/AmalfiWheatS11_zm?&amp;wid=14&amp;hei=14"><img alt="Amalfi: Yukon" src="http://images.crateandbarrel.com/is/image/Crate/AmalfiYukonS11_zm?&amp;wid=14&amp;hei=14"><span class="swatchCount">&nbsp;</span></span>
+					
 					<img src="$res.image" alt="">
 					<span class="productInfo allVerticals">
 						<span class="productName">$res.heading</span>
@@ -250,7 +250,7 @@ if(window.s_tnt.indexOf(tntVal)==-1){window.s_tnt+=tntVal}
 				<div class="jsItemRow product box">
 					<div class="jsQuickLook quickLook">
 						<a class="productNameLink" title="" href="$res.url">
-						<span class="spillfabricSwatch"><img alt="Amalfi: Cream" src="http://images.crateandbarrel.com/is/image/Crate/AmalfiCreamS11_zm?&amp;wid=14&amp;hei=14"><img alt="Amalfi: Cork" src="http://images.crateandbarrel.com/is/image/Crate/AmalfiCorkS11_zm?&amp;wid=14&amp;hei=14"><img alt="Amalfi: Pebble" src="http://images.crateandbarrel.com/is/image/Crate/AmalfiPebbleS11_zm?&amp;wid=14&amp;hei=14"><img alt="Amalfi: Wheat" src="http://images.crateandbarrel.com/is/image/Crate/AmalfiWheatS11_zm?&amp;wid=14&amp;hei=14"><img alt="Amalfi: Yukon" src="http://images.crateandbarrel.com/is/image/Crate/AmalfiYukonS11_zm?&amp;wid=14&amp;hei=14"><span class="swatchCount">+7 more</span></span>
+						
 						<img src="$res.image" alt="">
 						<span class="productInfo allVerticals">
 							<span class="productName">$res.heading</span>
